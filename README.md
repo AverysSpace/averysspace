@@ -25,9 +25,9 @@ languages and tools
 github stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AverySpaces&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AverySpaces&layout=compact&theme=tokyonight&hide_border=true" />
-<img width="70%" src="https://streak-stats.demolab.com/?user=AverySpaces&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AverysSpace&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AverysSpace&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="70%" src="https://streak-stats.demolab.com/?user=AverysSpace&theme=tokyonight&hide_border=true" />
 </div>
 
 ⸻
