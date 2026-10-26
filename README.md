@@ -1,80 +1,41 @@
 <div align="center">
-# hey, i'm avery 👾
-**developer · builder · tech enthusiast**
-*learning, creating, and breaking things until they work*
-<br>
-[![github](https://img.shields.io/badge/github-averyspaces-181825?style=flat-square&logo=github&logoColor=cdd6f4)](https://github.com/AverySpaces)
-[![pronouns](https://img.shields.io/badge/pronouns-he%2Fthey-cba6f7?style=flat-square)](#)
-[![trans](https://img.shields.io/badge/trans%20pride-💙%20🩷%20🤍%20🩷%20💙-11111b?style=flat-square)](#)
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:181825,50:45475a,100:cba6f7&height=200&section=header&text=avery&fontSize=70&fontColor=cdd6f4&fontAlignY=45&desc=developer%20%7C%20creator%20%7C%20tech%20enthusiast&descSize=15&descAlignY=65" width="100%" />
+<p> <img src="https://img.shields.io/badge/age-16-cba6f7?style=flat-square" /> <img src="https://img.shields.io/badge/location-united%20states-89b4fa?style=flat-square" /> <img src="https://img.shields.io/badge/trans%20pride-74c7ec?style=flat-square" /> <img src="https://img.shields.io/badge/pronouns-he%2Fthey-f5c2e7?style=flat-square" /> </p>
+
+*building cool things and learning along the way*
+
 </div>
----
-### `01` · about me
-```yaml
-name: avery
-age: 16
-location: united states 🇺🇸
-identity: trans 🏳️‍⚧️
-interests:
-  - software development
-  - operating systems
-  - linux and self-hosting
-  - networking and virtualization
-  - building cool things
 
-02 · what i do
+⸻
 
-* 💻 develop software and experiment with low-level programming
-* 🖥️ explore operating system development
-* 🌐 build websites and web projects
-* 🐧 work with linux, servers, and self-hosted services
-* 🔧 build and maintain homelab infrastructure
-* 🚀 learn new technologies through hands-on projects
+about me
 
-03 · languages i know
+```yaml name: avery age: 16 location: united states identity: trans pronouns: he/they interests: - software development - operating systems - linux - self-hosting - networking - virtualization ```
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,asm,html,css,js&theme=dark" alt="programming languages and web technologies" />
-</p>
+skills
 
-* c and c++
-* assembly
-* html and css
-* javascript
+<p> <img src="https://skillicons.dev/icons?i=linux,debian,bash,docker,git,github,nginx,wordpress&theme=dark" /> </p>
 
-04 · skills and technologies
+* software and operating system development - web development - linux system administration - homelab infrastructure - proxmox virtualization - docker and self-hosting - networking and troubleshooting
 
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,debian,bash,docker,git,github,nginx,wordpress&theme=dark" alt="technology stack" />
-</p>
+languages
 
-* low-level programming and os development
-* web development
-* linux system administration
-* server deployment and management
-* virtualization with proxmox
-* docker and self-hosting
-* networking and reverse proxies
-* troubleshooting hardware and software
+<p> <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js&theme=dark" /> </p>
 
-05 · github stats
+* c - c++ - assembly - html - css - javascript
+
+github stats
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AverySpaces&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="avery's github stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AverySpaces&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="avery's most used languages" />
-<img width="70%" src="https://streak-stats.demolab.com/?user=AverySpaces&theme=tokyonight&hide_border=true" alt="avery's github contribution streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AverySpaces&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AverySpaces&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="70%" src="https://streak-stats.demolab.com/?user=AverySpaces&theme=tokyonight&hide_border=true" />
 </div>
-
-06 · currently
-
-* 🛠️ building personal projects
-* 📚 learning more about systems and software
-* 🌱 improving my skills one project at a time
 
 ⸻
 
 <div align="center">
 
-made with curiosity and a questionable amount of debugging ✨
+*made with curiosity and a questionable amount of debugging* ✨
 
 </div>
-```
